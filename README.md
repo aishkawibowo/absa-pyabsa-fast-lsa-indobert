@@ -60,8 +60,5 @@ Evaluation is conducted across all folds in k-fold cross-validation.
 absa-pyabsa-fast-lsa-indobert/
 │
 ├── data/              # Dataset (processed / anonymized)
-├── notebooks/         # Experiment notebooks
-├── src/               # Training and evaluation scripts
-├── results/           # Evaluation results
+├── notebooks/         # Training and evaluation scripts
 ├── README.md
-└── requirements.txt
